@@ -1,3 +1,5 @@
+    Let's begin!
+    
     3 eggs
     2 slices bread
     2 strips of bacon or 2 breakfast sausages
@@ -9,3 +11,5 @@
     1 tsp salt
     1 tsp pepper
     hot sauce (optional)
+
+    Enjoy my recipe!
