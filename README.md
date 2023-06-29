@@ -1,4 +1,4 @@
-# Brandon's Basic Recipe
+# Brandon's Basic Breakfast Recipe
 
 <em>Description</em>: a **delicious** and **simple** breakfast recipe
 
@@ -14,3 +14,4 @@
     8. Serve eggs and veggies on the toast with the meat on the side
     9. Add hot sauce to eggs and veggies (optional)
 
+![Breakfast is delicious!](http://yab.be/wp-content/uploads/2022/08/IMG_9496-1024x1024.jpg "Egg and bacon breakfast")
