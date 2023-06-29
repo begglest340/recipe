@@ -1,11 +1,17 @@
-# recipe
-line 2 changed remotely
+# Brandon's Basic Breakfast Recipe
 
-Title: Brandon's Basic Recipe
-Description: a delicious and simple breakfast recipe
-files included:
-    .git
-    ingredients.md
-    instructions.txt
-    recipe.jpg
-last line changed locally
+<em>Description</em>: a **delicious** and **simple** breakfast recipe
+
+### Directions:
+
+    1. beat eggs in a bowl
+    2. chop up onion and green pepper fine
+    3. fry onion and green pepper in oil on medium low for 10 minutes
+    4. fry bacon or sausages separately
+    5. add 1 tst butter to the vegetables then add the eggs and mix with veggies
+    6. Remove meat and eggs/veggies when cooked.
+    7. Toast bread and add butter.
+    8. Serve eggs and veggies on the toast with the meat on the side
+    9. Add hot sauce to eggs and veggies (optional)
+
+![Breakfast is delicious!](http://yab.be/wp-content/uploads/2022/08/IMG_9496-1024x1024.jpg "Egg and bacon breakfast")
