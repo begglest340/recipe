@@ -3,6 +3,7 @@
 Description: a delicious and simple breakfast recipe
 
 ### Directions:
+
     1. beat eggs in a bowl
     2. chop up onion and green pepper fine
     3. fry onion and green pepper in oil on medium low for 10 minutes
