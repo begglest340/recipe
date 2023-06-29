@@ -1,6 +1,6 @@
 # Brandon's Basic Recipe
 
-Description: a delicious and simple breakfast recipe
+<em>Description</em>: a **delicious** and **simple** breakfast recipe
 
 ### Directions:
 
